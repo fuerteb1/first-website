@@ -1,0 +1,28 @@
+
+
+
+#gross {
+	font-size: 0.42cm;
+}
+
+#klein {
+	font-size: 25px;
+	color: green;
+	text-align: center;
+}
+
+table, td, th {
+	border-width: 1px;
+	border-style: dotted solid double dashed;
+	border-color: #a601c6;
+	font-size: 24px;
+}
+
+img {
+	width: 130px;
+}
+
+h1 {
+	font-weight: bold;
+	float: right;
+}
