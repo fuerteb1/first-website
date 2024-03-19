@@ -1,0 +1,23 @@
+    h1 { 
+       background-color: green;
+       color: white;
+    }
+    p {
+    	text-align: center; 
+    	color: green;
+    }
+	
+	
+	#horst
+	{
+		color: red;
+	}
+	
+	
+	
+	table, th, td 
+    {
+    border: 1px;
+	border-color: #4286f4;
+	border-style: dotted;
+	}
