@@ -1,0 +1,20 @@
+
+   
+ table, td, th {
+	
+    border-width:3px;  
+    border-style:solid;
+	border-color:#0dd810;
+}
+   
+body {
+	color:#0b62ed;
+    background-image:url("images/Namib.jpg");
+   
+}
+ 
+h1   {
+	font-family:"Roboto";
+	
+}
+
